@@ -1,3 +1,3 @@
 # hello-world
 
-Hello to everyone.  I'm aan apprentice coder, be nice to me.
+Hello to everyone.  I'm an apprentice coder, be nice to me.
